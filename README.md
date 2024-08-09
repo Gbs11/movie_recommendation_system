@@ -1,4 +1,4 @@
-Movie Recommendation System
+**Movie Recommendation System**
 
 Overview
 This project implements a movie recommendation system using Python. The system suggests movies to users based on their preferences by analyzing movie metadata. It utilizes machine learning techniques to compute similarity scores between movies and provide personalized recommendations.
